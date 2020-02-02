@@ -1,0 +1,4 @@
+#Sun Feb 02 13:59:55 PKT 2020
+base.0=/home/furqan/Desktop/Flutter_work/app4_onServer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
